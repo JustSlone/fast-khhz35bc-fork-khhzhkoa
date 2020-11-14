@@ -41,5 +41,5 @@ const styles = css`
   styles,
 })
 export class MyCounter extends FASTElement {
-  @observable count: number = 0;
+  @observable count: number = 5;
 }
